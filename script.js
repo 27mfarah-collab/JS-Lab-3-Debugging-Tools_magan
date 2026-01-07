@@ -13,3 +13,9 @@
 
 
 /* 4. Take a screenshot of your console that shows "Hello from the Console!" */
+
+document.write("Hello from JavaScript!");
+
+alert("Hello from a Pop-Up!");
+
+console.log("Hello from the console!")
